@@ -13,7 +13,7 @@ DNA of Quality
 
 ---
 Creo Parametric Course 4.0
-<img src="images/curso Creo.jpg?raw=true"/>
+<img src="images/Curso Creo.jpg?raw=true"/>
 
 ---
 Agile Fundamentals: Scrum, Kanban, and Scrumban
