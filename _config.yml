@@ -1,11 +1,12 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Patrick Vieira # your name (or website title) here
+logo: "/images/WhatsApp Image 2018-06-13 at 22.40.34.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  HVAC enthusiast and really passionate about it.
+  I hope to make a difference in the world using my HVAC knowledge by improving projects, using more renewable energy sources and developing more environmental friendly refrigerants. 
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/patrick-vieira-70b73b163/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
