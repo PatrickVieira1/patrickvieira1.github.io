@@ -26,7 +26,7 @@ How to Automate the Boring Stuff with Python
 ### Achievements
 
 - [Third Place on CONBRAVA](http://conbrava.comercial.ws/site/en/home-en/)
-<p style="font-size:14px">CONBRAVA is the biggest Congress about HVAC-R on Latin America. On November of 2021, I published a paper about an analysis on a photovoltaic air-conditioning system and among the incredible people that were there, I was voted to be the third best article in there. The article can be found in on the link below</p>
+<p style="font-size:14px">CONBRAVA is the biggest Congress about HVAC-R on Latin America. On November of 2021, I published a paper about an analysis on a photovoltaic air-conditioning system and among the incredible people that were there, I was voted to be the third best article in there. The article in portuguese can be found in on the link below</p>
 [LINK](/pdf/Análise Ecoenergética de sistemas de ar condicionado fotovoltaicos.pdf)
   
 ---
